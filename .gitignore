@@ -1,0 +1,8 @@
+# Python related files
+*.py[cod]
+
+# Virtual environment
+.venv
+
+# PyCharm
+.idea
